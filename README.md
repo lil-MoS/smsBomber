@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.pinimg.com/originals/3a/1c/15/3a1c151e4f4c00676ee2c99e431aa428.png"></p>
-<h2 align="center"><b>Mr Baji</b></h2>
+<h2 align="center"><b>LiL MoS</b></h2>
 
 </p>
 
@@ -30,10 +30,10 @@
 
 # سپس برای اجرای اسکریپت دستورات زیر را وارد کنید
 
-* git clone https://github.com/Mt-6/smsBomber
+* git clone https://github.com/lil-mos/smsBomber
 * cd smsBomber
-* python3 baji.py
+* python3 bomb.py
 * inter phone number / stop attack = Ctrl+c
 
 ## My Telegram
-[![GNU GPLv3 Image](https://telegram.org/img/t_logo.png)](http://t.me/mrbaji)
+[![GNU GPLv3 Image](https://telegram.org/img/t_logo.png)](http://t.me/lil_mos)
